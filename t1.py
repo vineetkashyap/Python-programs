@@ -1,6 +1,6 @@
 import requests
 import json
-#this is me
+#this is vineet kashyap
 URL="http://127.0.0.1:8000/stu/"
 data = {
 
